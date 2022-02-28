@@ -1,3 +1,13 @@
-# INSTALLING DEPENDENCIES
+## Install dependencies
 
-click install_dependencies.bat
+* Run following while in Hangman-gui directory
+```
+pip install -r .\requirements.txt
+```
+
+## Run game
+
+* Run following after installing dependencies while in Hangman-gui directory
+```
+python .\hangman
+```
